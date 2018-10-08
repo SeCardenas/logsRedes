@@ -1,8 +1,8 @@
-==================================Log Servidor==================================
+﻿==================================Log Servidor==================================
 Thu Oct 04 10:34:00 COT 2018
 Nombre del archivo: videoJohn1.mp4
 Tamaño del archivo: 248055773 bytes
 
-Cliente 01
+Cliente 0
 Tiempo de transferencia: 3.159
 El archivo fue enviado exitosamente.
