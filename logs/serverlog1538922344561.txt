@@ -1,0 +1,80 @@
+==================================Log Servidor==================================
+Sun Oct 07 09:28:44 COT 2018
+Nombre del archivo: videoJohn1.mp4
+Tamaño del archivo: 248055773 bytes
+
+Cliente 01
+Tiempo de transferencia: 137.656
+El archivo fue enviado exitosamente.
+Cliente 11
+Tiempo de transferencia: 137.656
+El archivo fue enviado exitosamente.
+Cliente 21
+Tiempo de transferencia: 137.655
+El archivo fue enviado exitosamente.
+Cliente 31
+Tiempo de transferencia: 137.655
+El archivo fue enviado exitosamente.
+Cliente 41
+Tiempo de transferencia: 137.655
+El archivo fue enviado exitosamente.
+Cliente 51
+Tiempo de transferencia: 137.654
+El archivo fue enviado exitosamente.
+Cliente 61
+Tiempo de transferencia: 137.655
+El archivo fue enviado exitosamente.
+Cliente 71
+Tiempo de transferencia: 137.654
+El archivo fue enviado exitosamente.
+Cliente 81
+Tiempo de transferencia: 137.654
+El archivo fue enviado exitosamente.
+Cliente 91
+Tiempo de transferencia: 137.654
+El archivo fue enviado exitosamente.
+Cliente 101
+Tiempo de transferencia: 137.654
+El archivo fue enviado exitosamente.
+Cliente 111
+Tiempo de transferencia: 137.654
+El archivo fue enviado exitosamente.
+Cliente 121
+Tiempo de transferencia: 137.654
+El archivo fue enviado exitosamente.
+Cliente 131
+Tiempo de transferencia: 137.654
+El archivo fue enviado exitosamente.
+Cliente 141
+Tiempo de transferencia: 137.654
+El archivo fue enviado exitosamente.
+Cliente 151
+Tiempo de transferencia: 137.654
+El archivo fue enviado exitosamente.
+Cliente 161
+Tiempo de transferencia: 137.653
+El archivo fue enviado exitosamente.
+Cliente 171
+Tiempo de transferencia: 137.654
+El archivo fue enviado exitosamente.
+Cliente 181
+Tiempo de transferencia: 137.654
+El archivo fue enviado exitosamente.
+Cliente 191
+Tiempo de transferencia: 137.658
+El archivo fue enviado exitosamente.
+Cliente 201
+Tiempo de transferencia: 137.658
+El archivo fue enviado exitosamente.
+Cliente 211
+Tiempo de transferencia: 137.658
+El archivo fue enviado exitosamente.
+Cliente 221
+Tiempo de transferencia: 137.658
+El archivo fue enviado exitosamente.
+Cliente 231
+Tiempo de transferencia: 137.658
+El archivo fue enviado exitosamente.
+Cliente 241
+Tiempo de transferencia: 137.658
+El archivo fue enviado exitosamente.

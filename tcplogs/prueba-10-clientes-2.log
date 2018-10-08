@@ -1,0 +1,95 @@
+Thu Oct  4 11:27:05 2018; ******** Detailed interface statistics started ********
+
+*** Detailed statistics for interface eth0, generated Thu Oct  4 11:28:05 2018
+
+Total: 	677926 packets, 1470078304 bytes
+	(incoming: 340682 packets, 22498070 bytes; outgoing: 337244 packets, 1447580234 bytes)
+IP: 	677926 packets, 1463895614 bytes
+	(incoming: 340682 packets, 17723422 bytes; outgoing: 337244 packets, 1446172192 bytes)
+TCP: 677924 packets, 1463895154 bytes
+	(incoming: 340680 packets, 17722962 bytes; outgoing: 337244 packets, 1446172192 bytes)
+UDP: 2 packets, 460 bytes
+	(incoming: 2 packets, 460 bytes; outgoing: 0 packets, 0 bytes)
+ICMP: 0 packets, 0 bytes
+	(incoming: 0 packets, 0 bytes; outgoing: 0 packets, 0 bytes)
+Other IP: 0 packets, 0 bytes
+	(incoming: 0 packets, 0 bytes; outgoing: 0 packets, 0 bytes)
+Non-IP: 0 packets, 0 bytes
+	(incoming: 0 packets, 0 bytes; outgoing: 0 packets, 0 bytes)
+Broadcast: 2 packets, 488 bytes
+
+Average rates:
+  Total:	196010,44 kbits/s, 11298,77 packets/s
+  Incoming:	2999,73 kbits/s, 5678,03 packets/s
+  Outgoing:	193010,69 kbits/s, 5620,73 packets/s
+
+Peak total activity: 233324,88 kbits/s, 13670,40 packets/s
+Peak incoming rate: 3847,56 kbits/s, 7284,80 packets/s
+Peak outgoing rate: 230030,17 kbits/s, 6557,20 packets/s
+
+IP checksum errors: 0
+
+Running time: 60 seconds
+
+*** Detailed statistics for interface eth0, generated Thu Oct  4 11:29:05 2018
+
+Total: 	1510348 packets, 3515814273 bytes
+	(incoming: 819624 packets, 54195181 bytes; outgoing: 690724 packets, 3461619092 bytes)
+IP: 	1510348 packets, 3607617499 bytes
+	(incoming: 819624 packets, 42710365 bytes; outgoing: 690724 packets, 3564907134 bytes)
+TCP: 1510344 packets, 3607616572 bytes
+	(incoming: 819620 packets, 42709438 bytes; outgoing: 690724 packets, 3564907134 bytes)
+UDP: 4 packets, 927 bytes
+	(incoming: 4 packets, 927 bytes; outgoing: 0 packets, 0 bytes)
+ICMP: 0 packets, 0 bytes
+	(incoming: 0 packets, 0 bytes; outgoing: 0 packets, 0 bytes)
+Other IP: 0 packets, 0 bytes
+	(incoming: 0 packets, 0 bytes; outgoing: 0 packets, 0 bytes)
+Non-IP: 0 packets, 0 bytes
+	(incoming: 0 packets, 0 bytes; outgoing: 0 packets, 0 bytes)
+Broadcast: 4 packets, 983 bytes
+
+Average rates:
+  Total:	234387,61 kbits/s, 12586,23 packets/s
+  Incoming:	3613,01 kbits/s, 6830,20 packets/s
+  Outgoing:	230774,59 kbits/s, 5756,03 packets/s
+
+Peak total activity: 380132,69 kbits/s, 16671,40 packets/s
+Peak incoming rate: 6281,94 kbits/s, 11838,80 packets/s
+Peak outgoing rate: 374005,47 kbits/s, 6720,00 packets/s
+
+IP checksum errors: 0
+
+Running time: 120 seconds
+
+*** Detailed statistics for interface eth0, generated Thu Oct  4 11:29:14 2018
+
+Total: 	1510667 packets, 3515857769 bytes
+	(incoming: 819779 packets, 54205465 bytes; outgoing: 690888 packets, 3461652304 bytes)
+IP: 	1510667 packets, 3607655869 bytes
+	(incoming: 819779 packets, 42717819 bytes; outgoing: 690888 packets, 3564938050 bytes)
+TCP: 1510663 packets, 3607654942 bytes
+	(incoming: 819775 packets, 42716892 bytes; outgoing: 690888 packets, 3564938050 bytes)
+UDP: 4 packets, 927 bytes
+	(incoming: 4 packets, 927 bytes; outgoing: 0 packets, 0 bytes)
+ICMP: 0 packets, 0 bytes
+	(incoming: 0 packets, 0 bytes; outgoing: 0 packets, 0 bytes)
+Other IP: 0 packets, 0 bytes
+	(incoming: 0 packets, 0 bytes; outgoing: 0 packets, 0 bytes)
+Non-IP: 0 packets, 0 bytes
+	(incoming: 0 packets, 0 bytes; outgoing: 0 packets, 0 bytes)
+Broadcast: 4 packets, 983 bytes
+
+Average rates:
+  Total:	218037,69 kbits/s, 11710,60 packets/s
+  Incoming:	3361,57 kbits/s, 6354,88 packets/s
+  Outgoing:	214676,11 kbits/s, 5355,72 packets/s
+
+Peak total activity: 380132,69 kbits/s, 16671,40 packets/s
+Peak incoming rate: 6281,94 kbits/s, 11838,80 packets/s
+Peak outgoing rate: 374005,47 kbits/s, 6720,00 packets/s
+
+IP checksum errors: 0
+
+Running time: 129 seconds
+Thu Oct  4 11:29:14 2018; ******** Detailed interface statistics stopped ********
